@@ -1,2 +1,3 @@
 # sample-frontend-app
-sample frontend app for cdk python
+
+This repo codes represent Sample frontend application for Amazon ECS CDK project
